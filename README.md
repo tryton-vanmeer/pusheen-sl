@@ -15,7 +15,7 @@ across the screen.
 
 ## Usage
 + Run the script with `./pusheen-sl.py` or `python3 pusheen-sl.py`
-from withing this directory
+from within this directory
 + If installed, just run `pusheen-sl`
 
 ![Example GIF](example.gif)
