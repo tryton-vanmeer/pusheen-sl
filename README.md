@@ -17,3 +17,9 @@ across the screen.
 + Run the script with `./pusheen-sl.py` or `python3 pusheen-sl.py`
 from withing this directory
 + If installed, just run `pusheen-sl`
+
+
+# History and Future Updates
+For the changelog, check out [HISTORY.md](HISTORY.md)
+
+Ideas for improvements are welcome!
