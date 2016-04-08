@@ -18,6 +18,8 @@ across the screen.
 from withing this directory
 + If installed, just run `pusheen-sl`
 
+![Example GIF](example.gif)
+
 
 # History and Future Updates
 For the changelog, check out [HISTORY.md](HISTORY.md)
